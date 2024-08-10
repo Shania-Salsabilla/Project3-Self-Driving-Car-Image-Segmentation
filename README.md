@@ -38,3 +38,8 @@ This project aims to build an AI system capable of segmenting objects from image
 - `Notebook Resnet50-Unet Finetuning`: There are four variations of notebooks resulting from fine-tuning the ResNet50-Unet model, focused on achieving the smallest validation dice loss value.
 - `Gradio Inference on Google Colab`: A notebook containing an implementation of segmentation model inference using Gradio on Google Colab, allowing users to test models interactively.
 - `Project 3-Self Driving Car.pdf`: A PDF presentation of the project that describes the entire project, experimental results, and conclusions.
+
+## Links:
+For support this project, here are some important links:
+1. [Project 3: Object Segmentation Timeline & Results](https://docs.google.com/spreadsheets/d/19r60rSKzbD9wwQJAUAhbfaILK345ghxz2j73iuzR9q8/edit?usp=sharing): This link leads to a spreadsheet document that records the project timeline and comparison results of the various object segmentation models used in this project.
+2. [Hugging Face Interface](https://huggingface.co/spaces/eurekalabdawara/computervision-keras-segmentation): This link goes to a demo of the application implemented with Gradio for segmentation model inference in Google Colab. It provides an interactive interface to test and assess the segmentation models developed during the project.
